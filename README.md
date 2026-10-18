@@ -3,7 +3,7 @@
 **Developed by:**
 
 - **Sarvesh Pillai** — [GitHub Profile](https://github.com/PillaiSarveshX03)
-- **Tanvee Patil** — [GitHub Profile](https://github.com/patiltanvee)
+- **Tanvi Patil** — [GitHub Profile](https://github.com/patiltanvee)
 - **Tanusha Patil** — [GitHub Profile](https://github.com/TanushaPatil)
 ---
 
